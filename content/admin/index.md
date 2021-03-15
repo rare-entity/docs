@@ -1,4 +1,6 @@
----
+"“For God so [greatly] loved and dearly prized the world, that He [even] gave His [One and] only begotten Son, so that whoever believes and trusts in Him [as Savior] shall not perish, but have eternal life."
+- ‭‭John‬ ‭3:16‬ ‭AMP‬‬
+https://www.bible.com/1588/jhn.3.16.amp---
 title: Enterprise Administrators
 redirect_from:
   - /enterprise/admin/hidden/migrating-from-github-fi/
